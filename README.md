@@ -1,6 +1,6 @@
 # Sudoku-Solver
 
-This Python program solves Sudoku puzzles of various difficulties using variations of AC-3 constraint satisfaction algorithm. 
+This Python program solves Sudoku puzzles of various difficulties using variations of the AC-3 constraint satisfaction algorithm. 
 
 In order to run this program:
 1) Download both Python files as well as the puzzle text files.
